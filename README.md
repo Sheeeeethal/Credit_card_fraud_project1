@@ -10,7 +10,5 @@ Evaluation Metrics: The performance of each model is evaluated using common metr
 
 Model Optimization: Techniques such as hyperparameter tuning and feature selection are employed to fine-tune the selected models, aiming to improve their performance and reduce the risk of false positives and false negatives.
 
-Deployment: The best-performing model is deployed into a production environment, providing a practical solution for real-time fraud detection in credit card transactions.
-
 Results:
 Preliminary results indicate that XGBoost Classifier outperforms other models in terms of accuracy, precision, and recall and also the time taken to give us the results altogether. However, ongoing experimentation and refinement are underway to further enhance the model's performance and adaptability to evolving fraud patterns.
